@@ -5,6 +5,10 @@ It includes a calibration tool accessible from F2.
 
 <img width="1072" alt="screenshot_projectionmapping" src="https://user-images.githubusercontent.com/37904/55543247-faa3d680-56c8-11e9-9054-dbc6cd2b8c21.png">
 
+Projection to a curved wall:
+
+![projection_to_curved_wall](https://user-images.githubusercontent.com/37904/55559503-a3186180-56ee-11e9-8832-1b145110666f.png)
+
 ## Usage
 
 ```python
