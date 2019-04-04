@@ -3,6 +3,8 @@
 Kivy widget that reproject its content according to a calibration grid.
 It includes a calibration tool accessible from F2.
 
+<img width="1072" alt="screenshot_projectionmapping" src="https://user-images.githubusercontent.com/37904/55543247-faa3d680-56c8-11e9-9054-dbc6cd2b8c21.png">
+
 ## Usage
 
 ```python
